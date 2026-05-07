@@ -28,7 +28,6 @@ Clocked is an AI linguistic forensics system that identifies which large languag
 
 ## 🤖 Models Being Studied
 
-> ✅ All models collected via **Groq free tier** + **Google AI Studio free tier**. No billing required.
 
 | Model | Provider | Platform |
 |---|---|---|
@@ -105,13 +104,13 @@ Since no benchmark dataset exists for this problem, the dataset is built manuall
 
 | Purpose | Tool |
 |---|---|
-| Data Collection | Groq API (free) |
-| Data Collection | Google AI Studio (free) |
+| Data Collection | Groq API |
+| Data Collection | Google AI Studio |
 | NLP & Features | spaCy, NLTK |
 | Machine Learning | scikit-learn |
 | Dashboard | Streamlit |
-| Deployment | HuggingFace Spaces (free) |
-| Dataset Hosting | HuggingFace Datasets (free) |
+| Deployment | HuggingFace Spaces |
+| Dataset Hosting | HuggingFace Datasets |
 
 ---
 
@@ -189,7 +188,7 @@ Input Text
 ### 🚀 Week 4 — Ship It
 > Target: Live and public
 
-- [ ] Deploy on HuggingFace Spaces (free)
+- [ ] Deploy on HuggingFace Spaces
 - [ ] Push dataset to HuggingFace Datasets
 - [ ] Record demo video
 - [ ] Add to portfolio and LinkedIn
@@ -260,6 +259,7 @@ Built as part of independent exploration in:
 - NLP
 - Stylometry
 - LLM Behavioral Analysis
+  FROM SUMMER TASK OF OPENCODE.
 
 ---
 
