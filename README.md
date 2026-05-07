@@ -8,9 +8,9 @@ Clocked is an AI linguistic forensics system that identifies which large languag
 
 ## 📊 At a Glance
 
-| Models Studied | Unique Prompts | Labeled Samples | Total Cost |
-|---|---|---|---|
-| 5 | 150 | 750+ | ₹0 |
+| Models Studied | Unique Prompts | Labeled Samples |
+|---|---|---|
+| 5 | 150 | 750+ |
 
 ---
 
@@ -30,13 +30,13 @@ Clocked is an AI linguistic forensics system that identifies which large languag
 
 > ✅ All models collected via **Groq free tier** + **Google AI Studio free tier**. No billing required.
 
-| Model | Provider | Platform | Cost |
-|---|---|---|---|
-| LLaMA 3.1 | Meta | Groq | Free |
-| Mistral | Mistral AI | Groq | Free |
-| Gemma 2 | Google | Groq | Free |
-| DeepSeek | DeepSeek | Groq | Free |
-| Gemini 1.5 Flash | Google | AI Studio | Free |
+| Model | Provider | Platform |
+|---|---|---|
+| LLaMA 3.1 | Meta | Groq |
+| Mistral | Mistral AI | Groq |
+| Gemma 2 | Google | Groq |
+| DeepSeek | DeepSeek | Groq |
+| Gemini 1.5 Flash | Google | AI Studio |
 
 ---
 
