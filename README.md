@@ -259,7 +259,7 @@ Built as part of independent exploration in:
 - NLP
 - Stylometry
 - LLM Behavioral Analysis
-  FROM SUMMER TASK OF OPENCODE.
+**FROM SUMMER TASK OF OPENCODE.**
 
 ---
 
