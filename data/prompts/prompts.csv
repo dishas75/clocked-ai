@@ -1,0 +1,51 @@
+prompt_id,category,prompt
+1,factual,What is the universe made of?
+2,factual,What makes us human?
+3,factual,How do we beat bacteria?
+4,factual,What's at the bottom of the ocean?
+5,factual,Is there a limit to physical folding?
+6,argumentative,Are anonymous social media networks dangerous?
+7,argumentative,Do apps help you or just a waste of time?
+8,argumentative,Can cellphones be educational tools?
+9,argumentative,Do parents have different hopes and standards for their sons than for their daughters?
+10,argumentative,Do violent video games make people more violent in real life?
+11,storytelling,A girl discovers that her dreams are memories from another person's life
+12,storytelling,A deep-sea diver finds a functioning elevator at the bottom of the ocean
+13,storytelling,A boy finds a phone that receives calls from ten years in the future
+14,storytelling,A delivery driver notices one house exists only on certain days
+15,storytelling,A retired astronaut receives a signal from a mission that never returned
+16,coding,Explain what a binary search tree is and how insertion works step by step
+17,coding,Explain recursion to a beginner using a real-world analogy
+18,coding,What is the difference between stack and queue with practical examples
+19,coding,Explain how hash tables work internally and why collisions happen
+20,coding,Explain object-oriented programming concepts with examples in Python
+21,factual,What is the nature of consciousness and where does it arise?
+22,factual,How does quantum entanglement challenge our understanding of reality?
+23,factual,What are the leading theories about the origin and fate of the universe?
+24,factual,How do black holes form and what happens at their event horizon and singularity?
+25,factual,What is dark energy and why is it driving the accelerated expansion of the universe?
+26,argumentative,Should genetic engineering be used to enhance human intelligence and physical abilities?
+27,argumentative,Is space colonization essential for the long-term survival of humanity?
+28,argumentative,Do social media algorithms pose a greater threat to democracy than traditional propaganda?
+29,argumentative,Should governments implement universal basic income in response to AI-driven automation?
+30,argumentative,Will artificial general intelligence ultimately benefit or endanger humanity?
+31,storytelling,A librarian discovers that every book in her library contains a different version of her own life
+32,storytelling,In a city where dreams are taxed a young woman starts stealing other people’s dreams
+33,storytelling,A cartographer finds an ever-changing map that shows locations that don’t exist yet
+34,storytelling,A musician’s unfinished symphony begins playing itself summoning the people it was written for
+35,storytelling,A time-traveling chef uses recipes from the future to heal emotional wounds in the present
+36,coding,Explain dynamic programming using the 0/1 Knapsack problem with step-by-step implementation in Python
+37,coding,What are the core principles of RESTful API design and how do they differ from GraphQL?
+38,coding,Explain how garbage collection works in modern languages with examples from Python and Java
+39,coding,Compare BFS and DFS graph traversal algorithms with real-world use cases and Python implementations
+40,coding,Describe Git branching strategies (GitFlow or trunkbased) and best practices for large team collaboration
+41,factual,How does the human brain encode and retrieve long term memories?
+42,factual,What is the current understanding of the multiverse theory?
+43,factual,How do extremophiles survive in environments once thought impossible for life?
+44,factual,What are the biggest unsolved problems in mathematics today?
+45,factual,How does CRISPR gene editing actually work at the molecular level?
+46,argumentative,Should personal data be treated as a fundamental human right?
+47,argumentative,Are traditional universities becoming obsolete in the age of online education and AI tutors?
+48,argumentative,Should parents have the right to genetically design their children?
+49,argumentative,Does the pursuit of technological singularity justify the associated ethical risks?
+50,argumentative,Will remote work ultimately strengthen or weaken human social connections?

@@ -32,10 +32,9 @@ Clocked is an AI linguistic forensics system that identifies which large languag
 | Model | Provider | Platform |
 |---|---|---|
 | LLaMA 3.1 | Meta | Groq |
-| Mistral | Mistral AI | Groq |
-| Gemma 2 | Google | Groq |
-| DeepSeek | DeepSeek | Groq |
-| Gemini 1.5 Flash | Google | AI Studio |
+| GPT OSS | OpenAI | Groq |
+| Qwen| AliBaba | Groq |
+|  Gemma 4 26B | Google | AI Studio |
 
 ---
 
@@ -159,7 +158,7 @@ Input Text
 > Target: 750+ labeled samples
 
 - [ ] Sign up on Groq — get free API key
-- [ ] Sign up on Google AI Studio — get free Gemini key
+- [ ] Sign up on Google AI Studio — get free Gemma key
 - [ ] Write 150 prompts across 5 categories
 - [ ] Run `collect.py` — query all 5 models, save to CSV
 

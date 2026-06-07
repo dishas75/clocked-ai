@@ -1,0 +1,13 @@
+groq
+google-genai
+openai
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+streamlit
+matplotlib
+seaborn
+textstat
+python-dotenv
