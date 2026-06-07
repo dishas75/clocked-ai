@@ -10,7 +10,7 @@ Clocked is an AI linguistic forensics system that identifies which large languag
 
 | Models Studied | Unique Prompts | Labeled Samples |
 |---|---|---|
-| 5 | 150 | 750+ |
+| 4 | 50 | ~200 |
 
 ---
 
